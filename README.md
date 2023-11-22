@@ -31,11 +31,11 @@ It is a simple customised linux for home lab or server , it is alternative of ub
 
 - # CLI
 - ## VM requirments MIN 
-    - Ram : `512MB`
+    - Ram : `2GB`
     - Cpu : `2 Vcore` (depends of processor(changable))
     - storage : `20GB`
 - ## VM requirments ANY
-    - Ram : `2GB`
+    - Ram : `4GB`
     - Cpu : `3 Vcore` (depends of processor(changable))
     - storage : `20GB` (MIN(Extendable))
 - ## Tools Included **Cli only**
