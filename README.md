@@ -16,13 +16,13 @@ It is a simple customised linux for home lab or server , it is alternative of ub
 
 - ## Default Account(user) / Settings / Configs
     
-    - Default Account
+    - ### Default Account
         - Default Username : `n`
         - Sudo user : `n`
         - Default password : `1`  
             change password using `passwd` command  
         - > **Warning:** SSH is enabled by default on port : `22`     
-    - samba
+    - ### samba
         - default config `/etc/samba/smb.conf`
         - edited lines
         - ``` 
