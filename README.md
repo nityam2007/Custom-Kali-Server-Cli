@@ -11,7 +11,8 @@ It is a simple customised linux for home lab or server , it is alternative of ub
     - curl
     - wget
     - parted
-    - python3 
+    - python3
+    - python3-full
     - net-tools
 
 - ## Default Account(user) / Settings / Configs
