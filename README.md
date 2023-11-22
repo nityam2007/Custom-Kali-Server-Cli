@@ -1,9 +1,9 @@
-# Custom-Kali-Server-Cli
+# Kali-Server
 
 - ## What is it ?
-It is a simple customised linux for home lab or server , it is alternative of ubuntu server but minimal , It is based on debian based kali linux and it is mininmal install of kali and made for VMs .
+It is a simple customised linux for home lab or server , it is alternative of ubuntu server but minimal , It is based on debian based kali linux and it is mininmal install of kali and made for VMs . Both Cli and Gui are there pre set for your project 
 
-- ## Default Account(user) / Settings / Configs
+- ## Default Account(user) / Settings / Configs (CLI-GUI)
     
     - ### Default Account
         - Default Username : `n`
@@ -28,22 +28,35 @@ It is a simple customised linux for home lab or server , it is alternative of ub
             read only = no 
         -   As home directory is exposed for setup with guest allowed (change this  for security)
 
-- ## VM requirments 
+
+- # CLI
+- ## VM requirments MIN 
     - Ram : `512MB`
     - Cpu : `2 Vcore` (depends of processor(changable))
     - storage : `20GB`
-    
-- ## Tools Included
-    - git
-    - ssh
-    - ftp 
-    - samba
-    - curl
-    - wget
-    - parted
-    - python3
-    - python3-full
-    - net-tools
-    - mkfs
-    - fdisk
-    - vm tools
+- ## VM requirments ANY
+    - Ram : `2GB`
+    - Cpu : `3 Vcore` (depends of processor(changable))
+    - storage : `20GB` (MIN(Extendable))
+- ## Tools Included **Cli only**
+    - ### MIN
+        - git
+        - ssh
+        - ftp 
+        - samba
+        - curl
+        - wget
+        - parted
+        - python3
+        - python3-full
+        - net-tools
+        - mkfs
+        - fdisk
+        - vm tools
+    - ### Docker + MIN
+        - docker (sudo)
+        - docker (service) 
+        - docker-compose
+    - ### Docker Portainer + Docker + MIN
+        - Portainer (Not Config) `localhost:9000`
+    - ### 
