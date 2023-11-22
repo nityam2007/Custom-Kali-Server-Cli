@@ -1,3 +1,9 @@
+---
+title: Custom Kali Server Cli
+emoji: 🚀
+license: gpl-3.0
+---
+
 # Custom-Kali-Server-Cli
 
 - ## What is it ?
