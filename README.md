@@ -53,10 +53,16 @@ It is a simple customised linux for home lab or server , it is alternative of ub
         - mkfs
         - fdisk
         - vm tools
-    - ### Docker + MIN
+    - ### Docker + Portainer + MIN
         - docker (sudo)
         - docker (service) 
         - docker-compose
-    - ### Docker Portainer + Docker + MIN
-        - Portainer (Not Config) `localhost:9000`
-    - ### 
+        - Portainer CE (Not Config) `localhost:9000`
+        - othere tools in min
+    - ### Code-server + Docker + Portainer + MIN
+        - code-server 
+            - `localhost:8443`
+            - password = `password`
+            - sudo pass = `password`
+            - Image used `lscr.io/linuxserver/code-server:latest`
+        - othere tools in docker
