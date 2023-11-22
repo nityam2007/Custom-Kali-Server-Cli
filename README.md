@@ -1,7 +1,7 @@
 # Kali-Server
 
 - ## What is it ?
-It is a simple customised linux for home lab or server , it is alternative of ubuntu server but minimal , It is based on debian based kali linux and it is mininmal install of kali and made for VMs . Both Cli and Gui are there pre set for your project 
+It is a simple customised linux for home lab or server , it is alternative of ubuntu server but minimal , It is based on debian based kali linux and it is mininmal install of kali and made for VMs . Both Cli and Gui are there pre set for your project or servers or home labs 
 
 - ## Default Account(user) / Settings / Configs (CLI-GUI)
     
@@ -65,4 +65,6 @@ It is a simple customised linux for home lab or server , it is alternative of ub
             - password = `password`
             - sudo pass = `password`
             - Image used `lscr.io/linuxserver/code-server:latest`
-        - othere tools in docker
+            - config path `/home/n/code`
+            - workspace  `/home/n/code/workspace`
+        - othere tools in docker + portainer ce
