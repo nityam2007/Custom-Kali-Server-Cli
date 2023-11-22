@@ -68,3 +68,9 @@ It is a simple customised linux for home lab or server , it is alternative of ub
             - config path `/home/n/code`
             - workspace  `/home/n/code/workspace`
         - othere tools in docker + portainer ce
+
+
+- ## Downlaad
+    - [kali-Server-cli-min](https://huggingface.co/spaces/Nityam2007/Kali-Server/resolve/main/CLI/kali-server-cli-min.ova?download=true)
+    - [Kali-Server-cli-Docker-Portainer-Min](https://huggingface.co/spaces/Nityam2007/Kali-Server/resolve/main/CLI/kali-server-cli-docker-portainer.ova?download=true)
+    - [Kali-Server-Code-server-docker-Portainer-min](https://huggingface.co/spaces/Nityam2007/Kali-Server/resolve/main/CLI/kali-server-cli-docker-code-server.ova?download=true)
